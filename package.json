@@ -1,0 +1,24 @@
+{
+  "name": "mini-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MgmHarshad/Mini-Redis.git"
+  },
+  "author": "Harshad Vilas Magadum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MgmHarshad/Mini-Redis/issues"
+  },
+  "homepage": "https://github.com/MgmHarshad/Mini-Redis#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
